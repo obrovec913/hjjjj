@@ -1,0 +1,23 @@
+/* CSS Styles for Frontend pages */
+
+.aelia_tax_display_by_country.widget_wc_aelia_country_selector_widget .button.change_country {
+	margin-top: 8px;
+	width: 100%;
+}
+
+.aelia_tax_display_by_country.widget_wc_aelia_country_selector_widget .tax_exempt_wrapper {
+	margin-top: 6px;
+}
+
+.aelia_tax_display_by_country.widget_wc_aelia_country_selector_widget .tax_exempt_wrapper .tax_exempt {
+	margin-left: 0;
+}
+
+.aelia_tax_display_by_country.widget_wc_aelia_country_selector_widget .tax_exempt_wrapper label {
+	display: inline !important;
+}
+
+.aelia_tax_display_by_country.widget_wc_aelia_country_selector_widget .state_label {
+	display: block;
+	margin-top: 8px;
+}
